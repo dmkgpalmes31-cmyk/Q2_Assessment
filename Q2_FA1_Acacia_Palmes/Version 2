@@ -46,6 +46,6 @@ Short Reflection
 
 1. I created four functions, which are add_numbers(), subtract_numbers(), multiply_numbers(), and divide_numbers().
 2. My functions used num1 and num2 as my parameters
-3. The arguments passed were the two numbers entered by the user, num1 and num2.
+3. The arguments passed were the two numbers entered by the user, num1 and num2. 
 4. My program uses print() to display the value returned by the selected function.
 5. Using functions makes the code more organized, readable, and easier to understand.
